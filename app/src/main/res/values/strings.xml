@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">触控同步</string>
+    <color name="ic_launcher_background">#3482FF</color>
+    <string name="accessibility_desc">触控同步需要无障碍权限以在接收端注入触控事件</string>
+</resources>
+
